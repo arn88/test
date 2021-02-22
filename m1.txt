@@ -1,8 +1,9 @@
 <<<<<<< HEAD
 m111
+add new from outside local
 =======
 mmmm1
 >>>>>>> fature
 
-add new from outside local
 
+add new from outside local
